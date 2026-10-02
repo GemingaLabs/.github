@@ -6,6 +6,8 @@
 
 Estudio de software que desarrolla productos SaaS propios.
 
+Software studio that develops its own SaaS products.
+
 
 
 <!-- Enlace al sitio corporativo -->
